@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "72745263315",
+    "firebase_url": "https://picchulast-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "picchulast",
+    "storage_bucket": "picchulast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72745263315:android:85446f9dfe78c340adf426",
+        "android_client_info": {
+          "package_name": "Test.picchu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72745263315-jsnou0mdi2bs8d3tjei95he4qlkjch1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD58dJ9Wilar6g2vSmbibu4O0-DKFa5Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72745263315-9usd77lcr3om81l0600vr7lflj6hmhni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72745263315-qij19ia20ms77o6s1oinum5ep32h4hqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.picchu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72745263315:android:289d6df35320f788adf426",
+        "android_client_info": {
+          "package_name": "com.app.picchu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72745263315-jsnou0mdi2bs8d3tjei95he4qlkjch1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD58dJ9Wilar6g2vSmbibu4O0-DKFa5Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72745263315-9usd77lcr3om81l0600vr7lflj6hmhni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72745263315-qij19ia20ms77o6s1oinum5ep32h4hqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.picchu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72745263315:android:9c95da35af31c473adf426",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72745263315-cmqe786hv75s9u2pne4ahg8pbm9q25hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test",
+            "certificate_hash": "a90e92830ed04424a6465b18bd88d81a9f05d5b0"
+          }
+        },
+        {
+          "client_id": "72745263315-jsnou0mdi2bs8d3tjei95he4qlkjch1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD58dJ9Wilar6g2vSmbibu4O0-DKFa5Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72745263315-9usd77lcr3om81l0600vr7lflj6hmhni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72745263315-qij19ia20ms77o6s1oinum5ep32h4hqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.picchu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

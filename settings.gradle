@@ -1,0 +1,44 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+
+        // Mapbox Maven repository
+        maven {
+            url = uri("https://api.mapbox.com/downloads/v2/releases/maven")
+            credentials {
+                username = 'mapbox'
+                // Use providers.gradleProperty to safely retrieve the token
+                password = providers.gradleProperty("MAPBOX_DOWNLOADS_TOKEN").getOrElse("")
+            }
+            authentication {
+                basic(BasicAuthentication)
+            }
+        }
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+
+        // Mapbox Maven repository
+        maven {
+            url = uri("https://api.mapbox.com/downloads/v2/releases/maven")
+            credentials {
+                username = "mapbox"
+                // Safely retrieve the token using providers.gradleProperty
+                password = providers.gradleProperty("MAPBOX_DOWNLOADS_TOKEN").getOrElse("")
+            }
+            authentication {
+                basic(BasicAuthentication)
+            }
+        }
+    }
+}
+
+rootProject.name = "Picchu"
+include ':app'
+

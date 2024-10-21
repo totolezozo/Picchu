@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Picchu</string>
+    <string name="navigation_drawer_open">Open Friend Requests</string>
+    <string name="navigation_drawer_close">Close Friend Requests</string>
+    <string name="messages_description">Messages</string>
+    <string name="plus_description">Plus</string>
+    <string name="home_description">Home</string>
+    <string name="custom_description">Custom</string>
+    <string name="profile_description">Profile</string>
+</resources>
